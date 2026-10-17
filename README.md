@@ -104,8 +104,8 @@ Proyecto de fans, **no afiliado a Mojang ni a Microsoft**. Minecraft es una marc
 
 ## Contacto
 
-Seguime en mi Instagram de MineCraft: [@minecraft_sin_shaders](https://www.instagram.com/minecraft_sin_shaders/)
-Seguime en mi Instagram personal: [@matiaurelio](https://www.instagram.com/matiaurelio/)
+- Seguime en mi Instagram de MineCraft: [@minecraft_sin_shaders](https://www.instagram.com/minecraft_sin_shaders/)
+- Seguime en mi Instagram personal: [@matiaurelio](https://www.instagram.com/matiaurelio/)
 
 ---
 
